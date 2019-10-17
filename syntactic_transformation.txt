@@ -1,0 +1,20 @@
+Syntactic transformations for MonaLog:
+
+1. a few -> several
+EasyCCG and C&C often produce wrong parse for 'a few'.
+
+2. manually give the polarization for 'at most N' and 'at least N'
+
+3. green/blue ... colored -> green/blue
+
+4. a group of -> some
+
+5. a lot of -> much
+EasyCCG and C&C often produce wrong parse for 'a lot of'.
+
+6. there is no man doing sth. -> no man is doing sth.
+
+7. passive -> active
+
+
+
